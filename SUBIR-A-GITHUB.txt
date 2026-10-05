@@ -1,0 +1,5 @@
+BahiaGo V7
+1) Descomprime y entra en BahiaGo-V7
+2) Sube TODO a la raiz del repo
+3) Settings → Pages → main → / (root)
+4) Si falta .nojekyll: Create new file → .nojekyll vacio
